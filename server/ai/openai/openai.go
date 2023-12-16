@@ -16,8 +16,8 @@ import (
 	"github.com/mattermost/mattermost-plugin-ai/server/ai"
 	"github.com/mattermost/mattermost-plugin-ai/server/ai/subtitles"
 	"github.com/pkg/errors"
-	"github.com/sashabaranov/go-openai"
-	openaiClient "github.com/sashabaranov/go-openai"
+	"github.com/1622145167/go-openai"
+	openaiClient "github.com/1622145167/go-openai"
 )
 
 type OpenAI struct {
